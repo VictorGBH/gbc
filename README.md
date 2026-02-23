@@ -17,7 +17,7 @@
 
  ...
 [attempt number 42](https://github.com/comp1238w26/asgn1-VictorGBH)
-https://github.com/comp1238w26/asgn1-VictorGBH.git
 
-* [Assignment 1](https://victorgbh.github.io/comp1238-asgn1/)
+
+
 
